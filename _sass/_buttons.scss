@@ -150,4 +150,16 @@
   &--small {
     font-size: $type-size-7;
   }
+
+   /* borderless button */
+
+   &--borderless {
+    margin-right: 5px;
+    padding: 1px;
+    //border-radius: 15%;
+    border: none;
+    color: $info-color;
+    background-color: transparent;
+    
+  }
 }

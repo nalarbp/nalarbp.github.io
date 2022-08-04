@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Budi Permana"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Microbial Genomics | Bioinformatics | Genomic Epidemilogy | Visualisation Tools Development"
-  location         : "Brisbane, Australia"
+  bio              : "PhD candidate in Microbial Genomics | Bioinformatics | Genomic Epidemiology"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=-600&user=vOlW2g4AAAAJ"
