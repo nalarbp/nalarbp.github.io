@@ -4,6 +4,7 @@
 
 .masthead {
   position: relative;
+  background-color: $header-bg-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -15,7 +16,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -23,6 +24,7 @@
 
     nav {
       z-index: 10;
+      background-color: $header-bg-color;
     }
 
     a {
@@ -32,7 +34,7 @@
 }
 
 .masthead__menu {
-
+  background-color: $header-bg-color;
   ul {
     margin: 0;
     padding: 0;
@@ -42,12 +44,14 @@
 }
 
 .masthead__menu-item {
+  background-color: $header-bg-color;
   display: block;
   list-style-type: none;
-  white-space: nowrap;
+  letter-spacing: 0.5px;
+  //white-space: nowrap;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    //font-weight: 900;
   }
 }

@@ -193,10 +193,10 @@
     position: absolute;
     height: 100%;
     right: 0;
-    padding: 0 0.5rem;
+    padding: 0 0.2rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: transparent;
     color: #fff;
     cursor: pointer;
   }
@@ -231,7 +231,7 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
+        height: 1px;
         background: mix(#fff, $primary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
@@ -242,8 +242,8 @@
       }
 
       &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
+        -webkit-transform: scaleX(0.9);
+            -ms-transform: scaleX(0.9);
                 transform: scaleX(1); /* reveal*/
       }
     }
@@ -255,19 +255,19 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    //border: 1px solid $border-color;
+    //border-radius: $border-radius;
+    background: transparent;
+    //box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
+      //font-size: $type-size-5;
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: $gray;
       }
     }
 
@@ -278,8 +278,8 @@
       right: 10px;
       width: 0;
       border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      //border-width: 0 10px 10px;
+      //border-color: $border-color transparent;
       display: block;
       z-index: 0;
     }
@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
+  font-size: 1.55rem;
 
   ul {
     margin-bottom: 1em;
@@ -374,10 +374,10 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  //background-color: #fff;
+  //border: 1px solid $border-color;
+  //border-radius: $border-radius;
+  //box-shadow: $box-shadow;
 
   .nav__title {
     color: #fff;
