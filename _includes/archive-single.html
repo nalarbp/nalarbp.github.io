@@ -41,9 +41,24 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>{{ post.authors }} <br>
+          {% if post.publication_type == 'Research Article' %}
+          <p> <strong>{{ post.publication_type }}</strong>: {{ post.authors }} <br>
             Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-        </p>
+          </p>
+          {% endif %}
+
+          {% if post.publication_type == 'Poster Presentation' %}
+          <p><strong>{{ post.publication_type }}</strong>: {{ post.authors }} <br>
+            Presented at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          </p>
+          {% endif %}
+
+          {% if post.publication_type == 'Book' %}
+          <p><strong>{{ post.publication_type }}</strong>: {{ post.authors }} <br>
+            Printed and sold by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          </p>
+          {% endif %}
+          
         
           {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
