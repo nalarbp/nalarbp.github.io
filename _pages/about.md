@@ -10,15 +10,13 @@ redirect_from:
 
 ![](/images/background_img.png)
 
-### Personal summary
-
 I am a bioinformatician by training with experience in microbial genomics, genomic epidemiology, and web-based visualisation tools research and development. My research focuses on understanding the genomic epidemiology of multi-drug resistant bacteria in healthcare settings. I have worked with large-scale bacterial genome datasets in the last six years using various bioinformatics tools and pipelines. I am proficient in JavaScript programming and comfortable with High-Performance Computing, Unix commands, R, and Python programming. I am incredibly interested in data analysis and visualisation, mainly in translating genomic research for better healthcare products and services.
 
 ### Career history
 
 **Bioinformatician**  
 _UQ Centre for Clinical Research (May 2022 - Present)_  
-After I submitted my PhD thesis in April 2022, I worked as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve hospital infection prevention and control.
+After I submitted my PhD thesis in April 2022, I worked as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
 
 **Teaching Assistant**  
 _The University of Queensland (Jul 2018 - Present)_  
