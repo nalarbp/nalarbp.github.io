@@ -14,12 +14,23 @@ I am a bioinformatician by training with experience in microbial genomics, genom
 
 ### Career history
 
+**Genomic Scientist**  
+_Herston Infectious Diseases Institute (HeIDI) (December 2022 - Present)_  
+My responsibilities include:
+
+- Support the work of HeIDI Fellows and researchers who are conducting research in the area of genomics and bioinformatics.
+- Perform bioinformatic analyses of bacterial next-generation sequencing data, including quality control, assembly, annotation, read-mapping, and phylogenomic analysis.
+- Data analysis and data munging.
+- Use of database systems, including relational database management systems and laboratory information management systems.
+- Work collaboratively with other multidisciplinary researchers (including scientific, clinical and computational researchers) and teams across RBWH and MNHHS, UQ Centre for Clinical Research (UQCCR), Pathology Queensland, Forensic and Scientific Services (FSS), University partners/collaborators, health care consumers.
+- Work with relevant stakeholders to develop genomic education resources.
+
 **Bioinformatician**  
 _UQ Centre for Clinical Research (May 2022 - Present)_  
 After I submitted my PhD thesis in April 2022, I worked as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
 
 **Teaching Assistant**  
-_The University of Queensland (Jul 2018 - Present)_  
+_The University of Queensland (Jul 2018 - December 2022)_  
 I have been a teaching assistant for the Advanced Genome Informatics course since 2018. This course is held in 12 weeks and split into four modules: Introduction to Unix, genome assembly and phylogenomics, cancer genomics and metagenomics. My primary responsibilities are supporting lecturers in delivering the lectorials (lecture and tutorial) and answering students' questions on the online discussion portal.
 
 **Overseas Operational Officer**  
