@@ -27,7 +27,7 @@ My responsibilities include:
 
 **Bioinformatician**  
 _UQ Centre for Clinical Research (May 2022 - Present)_  
-After I submitted my PhD thesis in April 2022, I worked as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
+I am working as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
 
 **Teaching Assistant**  
 _The University of Queensland (Jul 2018 - December 2022)_  
@@ -41,11 +41,11 @@ _Markany Inc (May 2013 - Dec 2015)_
 
 **Doctor of Philosophy**  
 _The University of Queensland (Finished 2022)_  
-I recently completed all the requirements for my PhD and now are waiting for graduation in December 2022. My PhD focuses on genomic epidemiological research of drug-resistant bacteria and concurrently developing visualisation tools for integrating genomic and epidemiological information in healthcare settings. My thesis describes two genomic epidemiological studies of Vancomycin-resistant Enterococcus faecium (VREfm) in hospitals in Queensland and two novel visualisation tools I developed: [HAIviz](https://haiviz.beatsonlab.com) and [GraphSNP](https://graphsnp.beatsonlab.com). During my PhD, I had the opportunity to learn new skills, present my research at various conferences, and collaborate to publish several scientific papers.
+ My PhD focused on genomic epidemiological research of drug-resistant bacteria and concurrently developing visualisation tools for integrating genomic and epidemiological information in healthcare settings. Under supervision of A/Prof Scott Beatson and Dr Brian Forde, I worked on two genomic epidemiological studies of Vancomycin-resistant Enterococcus faecium (VREfm) in hospitals in Queensland. Additionally, I developed two novel visualization tools: [HAIviz](https://haiviz.fordelab.com) and [GraphSNP](https://graphsnp.fordelab.com). During my PhD, I had the opportunity to learn new skills, present my research at various conferences, and collaborate to publish several scientific papers.
 
 **Master of Bioinformatics**  
 _The University of Queensland (Finished 2017)_  
-I received a degree of [Master of Bioinformatics](https://my.uq.edu.au/programs-courses/program.html?acad_prog=5542) from The University of Queensland after completing a 24 units postgraduate coursework program. I took nine courses, including Concept and Advanced Bioinformatics, Data Mining, Software Engineering, Introduction to Information Systems, Computational Statistics, Advance Genome Informatics, Molecular Genetics and Major Research and Seminars. Cumulative GPA (24 units): 6.11/7; Dean's Commendation for Academic Excellence.
+I received a degree of [Master of Bioinformatics](https://my.uq.edu.au/programs-courses/program.html?acad_prog=5542) from The University of Queensland after completing a 24 units postgraduate coursework program. I took nine courses, including Concept and Advanced Bioinformatics, Data Mining, Software Engineering, Introduction to Information Systems, Computational Statistics, Advanced Genome Informatics, Molecular Genetics and Major Research and Seminars. Cumulative GPA (24 units): 6.11/7; Dean's Commendation for Academic Excellence.
 
 **Bachelor of Science (Biology)**  
 _Institut Teknologi Bandung (Finished 2013)_  
