@@ -10,14 +10,19 @@ redirect_from:
 
 ![](/images/background_img.png)
 
-I am a bioinformatician by training with experience in microbial genomics, genomic epidemiology, and web-based visualisation tools research and development. My research focuses on understanding the genomic epidemiology of multi-drug resistant bacteria in healthcare settings. I have worked with large-scale bacterial genome datasets in the last six years using various bioinformatics tools and pipelines. I am proficient in JavaScript programming and comfortable with High-Performance Computing, Unix commands, R, and Python programming. I am incredibly interested in data analysis and visualisation, mainly in translating genomic research for better healthcare products and services.
+I am a bioinformatician by training with focus in microbial genomics research, and web-based visualisation tool or pipeline development. My research revolves around the genomic epidemiology of multi-drug resistant bacteria in healthcare settings. I am confortable working with a large-scale bacterial genome datasets and analysis using various bioinformatics tools and pipelines. I am also incredibly passionate in web-based software design, and have been enjoying to design and implement web user interface (UI) using various Javascript frameworks and libraries. As a bioinformatician, I also comfortable with High-Performance Computing, Unix commands, R, and Python programming.
 
 ### Career history
 
-**Genomic Scientist**  
-_Herston Infectious Diseases Institute (HeIDI) (December 2022 - Present)_  
-My responsibilities include:
+**Postdoctoral Research Fellow**  
+_UQ Institute for Molecular Biosciences (January 2024 - Present)_ 
 
+With Dr Brian Forde, I continue my research journey to investigate the genetic diversity of drug-resistant bacteria from hospitals in Queensland using metagenomics, including bioinformatics and visualisation pipeline development.
+
+**Genomic Scientist**  
+_Herston Infectious Diseases Institute (HeIDI) (December 2022 - Present)_ 
+
+My responsibilities include:
 - Support the work of HeIDI Fellows and researchers who are conducting research in the area of genomics and bioinformatics.
 - Perform bioinformatic analyses of bacterial next-generation sequencing data, including quality control, assembly, annotation, read-mapping, and phylogenomic analysis.
 - Data analysis and data munging.
@@ -26,8 +31,9 @@ My responsibilities include:
 - Work with relevant stakeholders to develop genomic education resources.
 
 **Bioinformatician**  
-_UQ Centre for Clinical Research (May 2022 - Present)_  
-I am working as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
+_UQ Centre for Clinical Research (May 2022 - December 2023)_ 
+
+I worked as a part-time Bioinformatician at UQ Centre for Clinical Research (UQCCR) under supervision of Dr Brian Forde. My primary responsibility is to carry out large-scale bacterial genome analysis and contribute to developing a web-based application for real-time tracking of drug-resistant bacteria identified from hospitals in Queensland. My research includes but is not limited to analysing population structure, AMR factors, genetic diversity, cluster identification and visualisation tools development. This research and development work aims to improve prevention and control of hospital-acquired infections.
 
 **Teaching Assistant**  
 _The University of Queensland (Jul 2018 - December 2022)_  
