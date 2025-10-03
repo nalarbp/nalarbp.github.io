@@ -1,0 +1,202 @@
+[
+  {
+    "id": "2022_01_01",
+    "title": "Coexistence ofblaNDM–5andtet(X4) in international high-riskEscherichia coliclone ST648 of human origin in China",
+    "authors": "M Shafiq, M Zeng, B Permana, H Bilal, J Huang, F Yao, AM Algammal, ...",
+    "venue": "Frontiers in Microbiology 13, 1031688, 2022",
+    "date": "2022-02-01",
+    "type": "Publication",
+    "abstract": "The emergence of pathogens is conferring resistance to last-resort therapies such as tigecycline, colistin, and carbapenems, limiting the therapeutic options, and raising concerns about the emergence of new “superbugs.” This study reports the first incident of ablaNDM–5andtet(X4) co-harboringEscherichia coliwith resistance to carbapenem and tigecycline recovered as the causative agent of a urinary tract infection in a 94-year-old patient. TheE. colistrain ECCL209 carries multiple resistance genes [i.e.,blaTEM–1B,blaNDM–5,blaCMY–2,aadA22, florR, erm(B),mph(A),erm(42),lnuG,qnrS1, andsul2] and exhibits resistance to almost all clinically used antibiotics. MLST analysis found that the strain belongs to ST648, considered a worldwide high-risk pandemic clone. Moreover, multiple plasmid incompatibility types were detected, i.e., IncHI1A, IncHI1B, IncFII, IncFIA, IncFIB, IncQ1, Col, and IncX4. Genetic analysis revealed thatblaNDM–5andtet(X4) genes were localized on two hybrid plasmids with multiple replicons. Continuous monitoring studies are suggested to quantify the antimicrobial resistance and assess the dissemination of such superbugs into a human healthcare setting.",
+    "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.1031688/full"
+  },
+  {
+    "id": "2021_02_01",
+    "title": "Genomic surveillance, characterization and intervention of a polymicrobial multidrug-resistant outbreak in critical care",
+    "authors": "LW Roberts, BM Forde, T Hurst, W Ling, GR Nimmo, H Bergh, N George, ...",
+    "venue": "Microbial genomics 7 (3), 000530, 2021",
+    "date": "2021-03-01",
+    "type": "Publication",
+    "abstract": "Background.Infections caused by carbapenem-resistantAcinetobacter baumannii(CR-Ab) have become increasingly prevalent in clinical settings and often result in significant morbidity and mortality due to their multidrug resistance (MDR). Here we present an integrated whole-genome sequencing (WGS) response to a persistent CR-Ab outbreak in a Brisbane hospital between 2016–2018.Methods.A. baumannii, Klebsiella pneumoniae, Serratia marcescensandPseudomonas aeruginosaisolates were sequenced using the Illumina platform primarily to establish isolate relationships based on core-genome SNPs, MLST and antimicrobial resistance gene profiles. Representative isolates were selected for PacBio sequencing. Environmental metagenomic sequencing with Illumina was used to detect persistence of the outbreak strain in the hospital.Results.In response to a suspected polymicrobial outbreak …",
+    "url": ""
+  },
+  {
+    "id": "2023_03_01",
+    "title": "GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach",
+    "authors": "B Permana, SA Beatson, BM Forde",
+    "venue": "BMC bioinformatics 24 (1), 209, 2023",
+    "date": "2023-04-01",
+    "type": "Research Article",
+    "abstract": "BackgroundCluster and transmission analysis utilising pairwise SNP distance are increasingly used in genomic epidemiological studies. However, current methods are often challenging to install and use, and lack interactive functionalities for easy data exploration.ResultsGraphSNP is an interactive visualisation tool running in a web browser that allows users to rapidly generate pairwise SNP distance networks, investigate SNP distance distributions, identify clusters of related organisms, and reconstruct transmission routes. The functionality of GraphSNP is demonstrated using examples from recent multi-drug resistant bacterial outbreaks in healthcare settings.ConclusionsGraphSNP is freely available at https://github.com/nalarbp/graphsnp. An online version of GraphSNP, including demonstration datasets, input templates, and quick start guide is available for use at https://graphsnp.fordelab.com.",
+    "url": "https://link.springer.com/article/10.1186/s12859-023-05332-x"
+  },
+  {
+    "id": "2023_04_01",
+    "title": "Using genomics to investigate an outbreak of vancomycin-resistant Enterococcus faecium ST78 at a large tertiary hospital in Queensland",
+    "authors": "B Permana, PNA Harris, N Runnegar, M Lindsay, BC Henderson, ...",
+    "venue": "Microbiology Spectrum 11 (3), e04204-22, 2023",
+    "date": "2023-05-01",
+    "type": "Publication",
+    "abstract": "To investigate an outbreak of vancomycin-resistant Enterococcus faecium (VREfm) sequence type 78 (ST78) in a large tertiary Australian hospital. A collection of 63 VREfm ST78 isolates, identified during a routine genomic surveillance program, were subjected to genomic epidemiological analysis based on whole-genome sequencing (WGS) data. The population structure was reconstructed using phylogenetic analysis, and a collection of publicly available VREfm ST78 genomes were used to provide global context. Core genome single nucleotide polymorphism (SNP) distances and available clinical metadata were used to characterize outbreak clusters and reconstruct transmission events.In silicogenotyping confirmed that all study isolates werevanB-type VREfm carrying virulence characteristics of the hospital-associated E. faecium. Phylogenetic analysis identified two distinct phylogenetic clades, only one of …",
+    "url": "https://journals.asm.org/doi/pdf/10.1128/spectrum.04204-22"
+  },
+  {
+    "id": "2023_05_01",
+    "title": "The opportunities and challenges for artificial intelligence to improve sepsis outcomes in the paediatric intensive care unit",
+    "authors": "AT Aslan, B Permana, PNA Harris, KD Naidoo, MA Pienaar, AD Irwin",
+    "venue": "Current Infectious Disease Reports 25 (11), 243-253, 2023",
+    "date": "2023-06-01",
+    "type": "Publication",
+    "abstract": "Purpose of ReviewTo describe existing applications of artificial intelligence (AI) in sepsis management and the opportunities and challenges associated with its implementation in the paediatric intensive care unit.Recent FindingsOver the last decade, significant advances have occurred in the use of AI techniques, particularly in relation to medical image analysis. Increasingly, these techniques are being applied to a broad array of datasets. The availability of both structured and unstructured data from electronic health records, omics data and digital technologies (for example, portable sensors) is rapidly extending the range of applications for AI. These techniques offer the exciting potential to improve the recognition of sepsis and to help us understand the pathophysiological pathways and therapeutic targets of sepsis.SummaryAlthough AI has great potential to improve sepsis management in children, significant …",
+    "url": "https://link.springer.com/article/10.1007/s11908-023-00818-4"
+  },
+  {
+    "id": "2022_06_01",
+    "title": "CATHAI: cluster analysis tool for healthcare-associated infections",
+    "authors": "T Cuddihy, PNA Harris, B Permana, SA Beatson, BM Forde",
+    "venue": "Bioinformatics Advances 2 (1), vbac040, 2022",
+    "date": "2022-07-01",
+    "type": "Publication",
+    "abstract": "MotivationWhole genome sequencing (WGS) is revolutionizing disease surveillance where it facilitates high-resolution clustering of related organism and outbreak detection. However, visualizing and efficiently communicating genomic data back to clinical staff is crucial for the successful deployment of a targeted infection control response.ResultsCATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.Availability and implementationAll code associated with this application are free available from https://github.com/FordeGenomics/cathai. A demonstration …",
+    "url": "https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac040/6594149"
+  },
+  {
+    "id": "2017_07_01",
+    "title": "Estimating numbers of oil palm (Elaeis guineensis) pollen grains using image analysis and processing",
+    "authors": "AD Permana, B Permana, B Sahari, RE Putra, I Kinasih",
+    "venue": "Journal of Oil Palm Research 29 (3), 311-317, 2017",
+    "date": "2017-08-01",
+    "type": "Research Article",
+    "abstract": "Elaeidobius kamerunicus is the most important oil palm pollinator in Indonesia and Malaysia. However, the mechanism and efficiency of pollen transfer by this weevil are clearly not understood. The lack of study on pollination process in oil palm (Elaeis guineensis) is mostly caused by difficulties in pollen counting due to their small size. Most of the counting was conducted manually which is prone to mistakes, required extensive training, and time-consuming. The aim of this study is to provide a novel technique for counting pollen that is rapid, consistent, and efficient with a comparable accuracy to manual counting. Male and female of E. kamerunicus were collected from male and female oil palm inflorescences (N= 60). Extracted pollen were placed and distributed in a flat microscope slide separated by designated observation chambers. Images of each chamber were captured as a JPEG format and analysed by …",
+    "url": "https://www.researchgate.net/profile/Agus-Permana-2/publication/320256873_Estimating_numbers_of_oil_palm_elaeis_guineensis_pollen_grains_using_image_analysis_and_processing/links/5fa0095892851c14bcfc7c86/Estimating-numbers-of-oil-palm-elaeis-guineensis-pollen-grains-using-image-analysis-and-processing.pdf"
+  },
+  {
+    "id": "2024_08_01",
+    "title": "HAIviz: an interactive dashboard for visualising and integrating healthcare-associated genomic epidemiological data",
+    "authors": "B Permana, PNA Harris, LW Roberts, T Cuddihy, DL Paterson, ...",
+    "venue": "Microbial Genomics 10 (2), 001200, 2024",
+    "date": "2024-09-01",
+    "type": "Publication",
+    "abstract": "Existing tools for phylogeographic and epidemiological visualisation primarily provide a macro-geographic view of epidemic and pandemic transmission events but offer little support for detailed investigation of outbreaks in healthcare settings. Here, we present HAIviz, an interactive web-based application designed for integrating and visualising genomic epidemiological information to improve the tracking of healthcare-associated infections (HAIs). HAIviz displays and links the outbreak timeline, building map, phylogenetic tree, patient bed movements, and transmission network on a single interactive dashboard. HAIviz has been developed for bacterial outbreak investigations but can be utilised for general epidemiological investigations focused on built environments for which visualisation to customised maps is required. This paper describes and demonstrates the application of HAIviz for HAI outbreak investigations.",
+    "url": ""
+  },
+  {
+    "id": "2021_09_01",
+    "title": "Genomic surveillance, characterization and intervention of a polymicrobial multidrug-resistant outbreak in critical care. Microb Genom 7: mgen000530",
+    "authors": "LW Roberts, BM Forde, T Hurst, W Ling, GR Nimmo, H Bergh, N George, ...",
+    "venue": "",
+    "date": "2021-10-01",
+    "type": "Publication",
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "id": "2020_10_01",
+    "title": "Genomic surveillance, characterisation and intervention of a carbapenem-resistantAcinetobacter baumanniioutbreak in critical care",
+    "authors": "LW Roberts, BM Forde, T Hurst, W Ling, GR Nimmo, H Bergh, N George, ...",
+    "venue": "medRxiv, 2020.08. 10.20166652, 2020",
+    "date": "2020-11-01",
+    "type": "Publication",
+    "abstract": "Infections caused by carbapenem-resistantAcinetobacter baumannii(CR-Ab) have become increasingly prevalent in clinical settings and often result in significant morbidity and mortality due to their multidrug resistance (MDR). Here we present an integrated whole genome sequencing (WGS) response to a polymicrobial outbreak in a Brisbane hospital between 2016-2018. 28 CR-Ab (and 21 other MDR Gram negative bacilli) were collected from Intensive Care Unit and Burns Unit patients and sent for WGS with a 7-day turn-around-time in clinical reporting. All CR-Ab were sequence type (ST)1050 and within 10 single nucleotide polymorphisms (SNPs) apart, indicative of an ongoing outbreak, and distinct from historical CR-Ab isolates from the same hospital. Possible transmission routes between patients were identified on the basis of CR-Ab andK. pneumoniaeSNP profiles. Continued WGS surveillance between 2016 to 2018 enabled suspected outbreak cases to be refuted, but a resurgence of the outbreak CR-Ab mid-2018 in the Burns Unit prompted additional screening. Environmental metagenomic sequencing identified the hospital plumbing as a potential source. Replacement of the plumbing and routine drain maintenance resulted in rapid resolution of the secondary outbreak and significant risk reduction with no discernable transmission in the Burns Unit since. Here we demonstrate implementation of a comprehensive WGS and metagenomics investigation that resolved a persistent CR-Ab outbreak in a critical care setting.",
+    "url": "https://www.medrxiv.org/content/10.1101/2020.08.10.20166652.full.pdf"
+  },
+  {
+    "id": "2024_11_01",
+    "title": "The Genomic Epidemiology of ClinicalBurkholderia pseudomalleiIsolates in North Queensland, Australia",
+    "authors": "I Gassiep, MD Chatfield, B Permana, D Burnard, MJ Bauer, T Cuddihy, ...",
+    "venue": "Pathogens 13 (7), 584, 2024",
+    "date": "2024-12-01",
+    "type": "Publication",
+    "abstract": "BackgroundBurkholderia pseudomallei, the causative agent of melioidosis, is highly genetically recombinant, resulting in significant genomic diversity. Multiple virulence factors have been associated with specific disease presentations. To date, there are limited data relating to genomic diversity and virulence factors associated with melioidosis cases in North Queensland, Australia.AimTo describe the genetic diversity ofB. pseudomalleiand identify virulence factors associated with clinical risk factors and patient outcomes.MethodsWhole genome sequencing of clinical isolates was performed and analysed with clinical data obtained from a retrospective melioidosis cohort study.ResultsFifty-nine distinct sequence types (STs) were identified from the 128 clinical isolates. Six STs comprised 64/128 (50%) isolates. Novel STs accounted for 38/59 (64%) STs, with ST TSV-13 as the most prevalent (n = 7), and were less likely to possess an LPS A genotype or YLF gene cluster (p< 0.001). These isolates were most likely to be found outside the inner city (aOR: 4.0, 95% CI: 1.7–9.0,p= 0.001). ST TSV-13 was associated with increased mortality (aOR: 6.1, 95% CI: 1.2–30.9,p= 0.03). Patients with a history of alcohol excess were less likely to be infected byfhaB3 (aOR 0.2, 95% CI: 0.1–0.7,p= 0.01) or YLF (aOR: 0.4, 95% CI: 0.2–0.9,p= 0.04) positive isolates.ConclusionsThere are a significant number of novel sequence types in Townsville, Australia. An emerging novel ST appears to have an association with geographic location and mortality. Ongoing investigation is required to further understand the impact of this ST on the Townsville region.",
+    "url": ""
+  },
+  {
+    "id": "2023_12_01",
+    "title": "Characterization of antibiotic resistance genes and mobile elements in extended-spectrum β-lactamase-producingEscherichia colistrains isolated from …",
+    "authors": "M Shafiq, H Bilal, B Permana, D Xu, G Cai, X Li, M Zeng, Y Yuan, X Jiao, ...",
+    "venue": "Journal of Applied Microbiology 134 (7), lxad125, 2023",
+    "date": "2023-01-01",
+    "type": "Research Article",
+    "abstract": "AimThis study aimed to investigate the high-resolution phenotypic and genotypic characterization of extended-spectrum β-lactamase (ESBL)-producingEscherichia colistrains isolated from hospitalized patients to explore the resistance genes and mobile genetic elements (MGEs) involved in horizontal dissemination.MethodsBetween May and September 2021, a total of 216 ESBL-producingE. coliisolates were recovered from multiple departments. The identification of strains was performed using MALDI-TOF mass spectrometry and PCR, while antibiotic susceptibility testing was carried out using the Vitek 2 COMPACT system to determine resistance patterns, while PCR was used to detect different resistance genes and MGEs. In addition, a conjugation assay was performed to investigate the horizontal gene transfer of resistance genes. Selected isolates underwent whole …",
+    "url": "https://academic.oup.com/jambio/article-abstract/134/7/lxad125/7202321"
+  },
+  {
+    "id": "2023_13_01",
+    "title": "Melioidosis Queensland: An analysis of clinical outcomes and genomic factors",
+    "authors": "I Gassiep, D Burnard, B Permana, MJ Bauer, T Cuddihy, BM Forde, ...",
+    "venue": "PLOS Neglected Tropical Diseases 17 (10), e0011697, 2023",
+    "date": "2023-02-01",
+    "type": "Research Article",
+    "abstract": "BackgroundThe clinical and genomic epidemiology of melioidosis varies across regions.AimTo describe the clinical and genetic diversity ofB.pseudomalleiacross Queensland, Australia.MethodsWhole genome sequencing of clinical isolates stored at the melioidosis reference lab from 1996–2020 was performed and analysed in conjunction with available clinical data.ResultsIsolates from 292 patients were analysed. Bacteraemia was present in 71% and pneumonia in 65%. The case-fatality rate was 25%. Novel sequence types (ST) accounted for 51% of all isolates. No association was identified between the variable virulence factors assessed and patient outcome. Over time, the proportion of First Nation’s patients declined from 59% to 26%, and the proportion of patients aged >70 years rose from 13% to 38%.ConclusionThis study describes a genomically diverse and comparatively distinct collection ofB.pseudomalleiclinical isolates from across Queensland, Australia. An increasing incidence of melioidosis in elderly patients may be an important factor in the persistently high case-fatality in this region and warrants further investigation and directed intervention.",
+    "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011697"
+  },
+  {
+    "id": "2024_14_01",
+    "title": "Characterization of Gram-negative Bloodstream Infections in Hospitalized Australian Children and Their Clinical Outcomes",
+    "authors": "SCH Wen, PNA Harris, B Forde, B Permana, MD Chatfield, CL Lau, ...",
+    "venue": "Clinical Infectious Diseases 79 (3), 734-743, 2024",
+    "date": "2024-03-01",
+    "type": "Publication",
+    "abstract": "BackgroundGram-negative bloodstream infections (GNBSIs) more commonly occur in children with comorbidities and are increasingly associated with antimicrobial resistance. There are few large studies of GNBSIs in children that relate the clinical presentation, pathogen characteristics, and outcomes.MethodsA 3-year prospective study of GNBSIs in children aged <18 years was conducted in 5 Australian children's hospitals between 2019 and 2021. The clinical characteristics, disease severity, and outcomes were recorded. Causative pathogens underwent antibiotic susceptibility testing and whole genome sequencing.ResultsThere were 931 GNBSI episodes involving 818 children. Median age was 3 years (interquartile range, 0.6–8.5). A total of 576/931 episodes (62%) were community onset, though 661/931 (71%) occurred in children with …",
+    "url": "https://academic.oup.com/cid/article/79/3/734/7698442"
+  },
+  {
+    "id": "2025_15_01",
+    "title": "Snapshot genomic surveillance reveals insights into antimicrobial resistance and lineage diversity of uropathogens in older adults in Queensland",
+    "authors": "B Permana, C Falconer, J Mayer-Coverdale, J Robson, T Cuddihy, ...",
+    "venue": "Open Forum Infectious Diseases, ofaf610, 2025",
+    "date": "2025-04-01",
+    "type": "Publication",
+    "abstract": "BackgroundCommunity-acquired urinary tract infections (UTIs) are a significant health concern in older adults. However, few studies have investigated the epidemiology of uropathogens across diverse settings where older adults reside.MethodsIn this study, we whole-genome sequenced urinary isolates ofEscherichia coli,Klebsiellaspecies, andEnterobacter cloacaecomplex collected from individuals aged 70 and over living in the community and residential aged care facilities (RACFs) in Queensland, Australia. We investigated the prevalence of antimicrobial resistance, pathogen population structure, and transmission dynamics across the settings.ResultsE. coliwas most frequently identified (82.2%, 447/544), followed byK. pneumoniae(10.8%, 59/544) andE. hormaechei(2.6%, 14/544). Intra-species lineages were diverse, and a total of 177 …",
+    "url": "https://academic.oup.com/ofid/advance-article-pdf/doi/10.1093/ofid/ofaf610/64416148/ofaf610.pdf"
+  },
+  {
+    "id": "2025_16_01",
+    "title": "Emergence of a carbapenem-resistant atypical uropathogenicEscherichia coliclone as an increasing cause of urinary tract infection",
+    "authors": "LL Walker, MD Phan, B Permana, ZJ Lian, NTK Nhu, T Cuddihy, ...",
+    "venue": "Nature Communications 16 (1), 8200, 2025",
+    "date": "2025-05-01",
+    "type": "Research Article",
+    "abstract": "Carbapenem-resistantEnterobacteralespose a critical global health threat, exemplified by increasing resistance of uropathogenicE. coli(UPEC) that cause urinary tract infections (UTIs). Here, we investigate the publicly available EnteroBase dataset and identify a signal of increasing UTI caused by phylogroup AE. colisequence type 167 (ST167). Phylogenetic analysis of ST167 based on whole genome sequence data reveal three major clades (A, B, C), with clade C further resolving into several subclades, notably subclade C2 that possessed high carriage rates of carbapenem and cephalosporin resistance genes. Hierarchical clustering of core genome multi-locus sequence typing reveals ~77% of subclade C2 strains contain <20 allelic differences in 2,513 core genes and harbour two distinct group 1 capsule types, KL124 and KL30, likely originating fromKlebsiella. Subclade C2 was predominantly sequenced …",
+    "url": "https://www.nature.com/articles/s41467-025-63477-0"
+  },
+  {
+    "id": "2025_17_01",
+    "title": "PIRT-Seq: a high-resolution whole-genome assay to identify protein-coding genes",
+    "authors": "ECA Goodall, F Hodges, W Kok, B Permana, T Cuddihy, Z Yang, N Kahler, ...",
+    "venue": "Nucleic Acids Research 53 (15), gkaf774, 2025",
+    "date": "2025-06-01",
+    "type": "Publication",
+    "abstract": "The advent of high-density mutagenesis and data-mining studies suggest the existence of further coding potential within bacterial genomes. Small or overlapping genes are prevalent across all domains of life but are often overlooked for annotation and function because of challenges in their detection. To overcome limitations in existing protein detection methods, we applied a genetics-based approach. We combined transposon insertion sequencing using a dual-selection transposon with a translation reporter to identify translated open reading frames throughout the genome at scale but independent of genome annotation. We applied our method to the well-characterised speciesEscherichia coli. This method revealed over 200 putative novel protein coding sequences (CDS). These are mostly short CDSs (<50 amino acids) and include proteins that are highly conserved and neighbour functionally important …",
+    "url": "https://academic.oup.com/nar/article/53/15/gkaf774/8233997"
+  },
+  {
+    "id": "2025_18_01",
+    "title": "Interactive data analysis and reporting with SCIFR: A Single-File SPA Approach",
+    "authors": "B Permana, TP Cuddihy, BM Forde",
+    "venue": "bioRxiv, 2025.07. 10.664259, 2025",
+    "date": "2025-07-01",
+    "type": "Preprint",
+    "abstract": "The increasing complexity and scale of genomics data demand reporting solutions that are both interactive and easy to share. Here, we present SCIFR, a framework for creating self-contained, single-file interactive reports. SCIFR merges template-based flexibility with web app interactivity. Demonstrated with BLITSFR (comparative genomics) and METAXSFR (metagenomics), SCIFR outperforms established frameworks in efficiency and usability. The platform and tools are openly available, enabling next-generation, shareable reporting across diverse applications.",
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/16/2025.07.10.664259.full.pdf"
+  },
+  {
+    "id": "2024_19_01",
+    "title": "Loss of OmpK35 and Glycine-aspartic acid Duplication in ompK36 Negatively Affect the in vitro Synergy of Meropenem in Combination with Piperacillin/tazobactam or Imipenem …",
+    "authors": "AT Aslan, M Demir, ES Tanriverdi, B Permana, R Izuagbe, KA Ramsay, ...",
+    "venue": "Journal of Global Antimicrobial Resistance 39, 7, 2024",
+    "date": "2024-08-01",
+    "type": "Research Article",
+    "abstract": "BACKGROUND-AIMAlthough ceftazidime/avibactam is the agent of choice in OXA-48-producingKlebsiella pneumoniaeinfections, it is not readily available or prohibitively expensive in many countries. Since piperacillin/tazobactam plus meropenem combination was recently reported as highly synergistic against OXA-48-producingK. pneumoniae, we aimed to test in vitro synergy between piperacillin/tazobactam and meropenem against these isolates having a range of meropenem minimum inhibitory concentration (MIC) values.METHODSTime-kill assays were performed in duplicate against 17 carbapenemase-producingK. pneumoniaeisolates (OXA-48, n= 7; OXA-232, n= 6; NDM-1, n= 3; OXA-48 + NDM-1, n= 1) and 2 non-carbapenemase-producingK. pneumoniaeisolates with a glycine-aspartic acid (GD) duplication in ompK36. Antibiotic concentrations simulated the clinically attainable concentrations in …",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2213716524001966"
+  },
+  {
+    "id": "2024_20_01",
+    "title": "Genome scale identification of new genes using saturated reporter transposon mutagenesis",
+    "authors": "ECA Goodall, F Hodges, W Kok, B Permana, T Cuddihy, Z Yang, N Kahler, ...",
+    "venue": "bioRxiv, 2024.09. 06.611592, 2024",
+    "date": "2024-09-01",
+    "type": "Preprint",
+    "abstract": "Small or overlapping genes are prevalent across all domains of life but are often overlooked for annotation and function because of challenges in their detection. The advent of high-density mutagenesis and data-mining studies suggest the existence of further coding potential within bacterial genomes. To overcome limitations in existing protein detection methods, we applied a genetics-based approach. We combined transposon insertion sequencing with a translation reporter to identify translated open reading frames throughout the genome at scale, independent of genome annotation. We applied our method to the well-characterised speciesEscherichia coliand identified ∼200 putative novel protein coding sequences (CDS). These are mostly short CDSs (<50 amino acids) and in some cases highly conserved. We validated the expression of selected CDSs demonstrating the utility of this approach. Despite the extensive study ofE. coli, this method revealed proteins that have not been described previously, including proteins that are conserved and neighbour functionally important genes, suggesting significant functional roles of these small proteins. We present this as a complementary method to whole cell proteomics and ribosome trapping for condition-dependent identification of protein CDSs, and as a high-throughput method for testing conditional gene expression. We anticipate this technique will be a starting point for future high-throughput genetics investigations to determine the existence of unannotated genes in multiple bacterial species.",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.09.06.611592.full.pdf"
+  }
+]

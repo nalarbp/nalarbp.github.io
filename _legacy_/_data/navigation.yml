@@ -1,0 +1,27 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  #  - title: "Talks"
+  #    url: /talks/
+
+  #  - title: "Teaching"
+  #    url: /teaching/
+
+  #  - title: "Portfolio"
+  #    url: /portfolio/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "SCIFR"
+    url: /scifr-tools/
+#  - title: "Guide"
+#    url: /markdown/

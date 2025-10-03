@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__EVENTMACHINE: "--with-cxx-flags=-stdlib=libc++ --with-ldflags=-stdlib=libc++"
