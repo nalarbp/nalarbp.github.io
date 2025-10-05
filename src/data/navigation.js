@@ -63,6 +63,12 @@ export const navigation = {
       label: "HAIviz",
       href: "https://nalarbp.github.io/haiviz",
       description: "Healthcare-Associated Infection Visualization Tool v1"
+    },
+    {
+      id: "graphsnp",
+      label: "GraphSNP",
+      href: "https://nalarbp.github.io/graphsnp",
+      description: "GraphSNP v1.1"
     }
   ],
 
